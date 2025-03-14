@@ -1,0 +1,3 @@
+[submodule "edc-andon-watch"]
+	path = edc-andon-watch
+	url = https://github.com/bjgelly/edc-andon-watch
